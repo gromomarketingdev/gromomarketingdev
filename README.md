@@ -1,6 +1,18 @@
 ### Hey Everyone 👋
 
-Hi. I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React.js, Next.js, Angular, Vue.js, Node.js, Express, Nest.js), C#/.NET(ASP.NET, .NET MVC, .NET Core), Python(Django, Flask), Golang, Blockchain(Solana, Ethereum, Binance, Polygon|| Rust, Solidity, Web3.js, Ether.js), among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
+I started my website development career back in 2012 with my main focus in E-Commerce. Throughout the years I have perfected my craft by taking over 10,000 hours in courses and achieving multiple certificates and degrees. My studies were completed in Miami, FL which then led me to pursue the niche of marketing. Upon discovering how powerful both niches are, I combined them and have been providing website development + marketing services since 2015.
+
+I am specialized in:
+- Go: Golang,
+- .NET: C#, .Net Framework, ASP.NET, ASP.NET MVC, ASP.NET Core, VB.NET, Azure, Umbraco,
+- Node: Node.js, Express,
+- Angular: Angular 1.x, Angular 2, Angular 4, Angular 5, Angular 6, Angular 7, Angular 8, Angular 9, Angular 10,
+- React: React.JS, Redux, Next.js,
+- Vue: Vue.js, Vuex, Vuetify, Vue Router, Nuxt.js,
+- DataBase: Azure Custom DB, MS SQL Server, MySQL, PostgreSQL, MongoDB,
+- Restful API,
+
+The main thing I focus on when working with my clients is communication. This is the basis of all healthy and successful business relationships. I have a 100% success track record with my clients and take into consideration their time when performing any job. I take pride in making your vision a reality on the internet. If you are looking for someone to design and develop your new website or web application, I am your full-stack developer!
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
