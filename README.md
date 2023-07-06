@@ -26,6 +26,8 @@ The primary aspect I prioritize when collaborating with my clients is communicat
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nest&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 
