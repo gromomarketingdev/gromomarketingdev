@@ -1,18 +1,8 @@
 ### Hey Everyone 👋
 
-I started my website development career back in 2012 with my main focus in E-Commerce. Throughout the years I have perfected my craft by taking over 10,000 hours in courses and achieving multiple certificates and degrees. My studies were completed in Miami, FL which then led me to pursue the niche of marketing. Upon discovering how powerful both niches are, I combined them and have been providing website development + marketing services since 2015.
+I began my career in web and mobile development in 2012, with a primary focus on e-commerce. Over the years, I have honed my skills by completing over 10,000 hours of courses and earning multiple certificates and degrees. I completed my studies in Miami, FL, which led me to explore the field of marketing. After realizing the immense potential of both niches, I merged them and have been offering website development and marketing services since 2015.
 
-I am specialized in:
-- Go: Golang,
-- .NET: C#, .Net Framework, ASP.NET, ASP.NET MVC, ASP.NET Core, VB.NET, Azure, Umbraco,
-- Node: Node.js, Express,
-- Angular: Angular 1.x, Angular 2, Angular 4, Angular 5, Angular 6, Angular 7, Angular 8, Angular 9, Angular 10,
-- React: React.JS, Redux, Next.js,
-- Vue: Vue.js, Vuex, Vuetify, Vue Router, Nuxt.js,
-- DataBase: Azure Custom DB, MS SQL Server, MySQL, PostgreSQL, MongoDB,
-- Restful API,
-
-The main thing I focus on when working with my clients is communication. This is the basis of all healthy and successful business relationships. I have a 100% success track record with my clients and take into consideration their time when performing any job. I take pride in making your vision a reality on the internet. If you are looking for someone to design and develop your new website or web application, I am your full-stack developer!
+The primary aspect I prioritize when collaborating with my clients is communication, as it serves as the foundation for all prosperous and positive business connections. I boast a 100% success rate with my clients and value their time when executing any task. I take great pride in transforming your vision into a tangible reality on the internet. If you are seeking a full-stack developer to design and develop your new website or web application, I am the ideal candidate for the job!
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
