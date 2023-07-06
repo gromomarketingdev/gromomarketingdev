@@ -36,24 +36,7 @@ The primary aspect I prioritize when collaborating with my clients is communicat
 ![](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=3bac3a)
 
-#### Blockchain Development
-![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Binance-informational?style=flat&logo=binance&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Web3.js-informational?style=flat&logo=web3.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Contract-SmartContract-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-DApp-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-NFTmarketplace-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-MobileWallet-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-
-#### Other
+### Others
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
