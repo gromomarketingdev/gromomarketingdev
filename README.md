@@ -24,7 +24,7 @@ The primary aspect I prioritize when collaborating with my clients is communicat
 ![](https://img.shields.io/badge/Framework-RubyOnRails-informational?style=flat&logo=rubyonrails&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Redux-informational?style=flat&logo=redux&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextjs&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node&logoColor=white&color=3bac3a)
