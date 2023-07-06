@@ -5,7 +5,7 @@ I began my career in web and mobile development in 2012, with a primary focus on
 The primary aspect I prioritize when collaborating with my clients is communication, as it serves as the foundation for all prosperous and positive business connections. I boast a 100% success rate with my clients and value their time when executing any task. I take great pride in transforming your vision into a tangible reality on the internet. If you are seeking a full-stack developer to design and develop your new website or web application, I am the ideal candidate for the job!
 
 ### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
