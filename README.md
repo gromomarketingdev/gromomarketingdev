@@ -31,7 +31,7 @@ The primary aspect I prioritize when collaborating with my clients is communicat
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3bac3a)
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
